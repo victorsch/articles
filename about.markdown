@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a software engineer by profession, but my passion lies in the field of cybersecurity. As a pentester and security researcher, I spend most of my free time experimenting and playing with novel and advanced ways to break the systems we use on a daily basis.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My specific interests lie in web hacking, browser exploits, and red teaming. Adversaries bring unique strategies to the table and I'm particularly interested in learning how those techniques develop and unseen variations that I think would be fun to explore as a thought process or experiment of my own. On this site you can expect to find blog posts on my experiments, CTF writeups, research, exploit writeups, etc. This is the first time I've collectivized my work and I'm hoping it will teach me something about other directions I would like to take my career.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When I'm not behind my computer at work you can find me behind my computer at home, doing the same things I was previously but this time for fun. I also like fishing.
